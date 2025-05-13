@@ -11,15 +11,19 @@ Olá! Meu nome é Júlia Ribeiro, atualmente sou estudante de graduação em Ci�
 ![NVDA](https://img.shields.io/badge/NVDA_Screen_Reader-000000?style=for-the-badge)
 ![VS Code OSS](https://img.shields.io/badge/VS_Code_OSS-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Geany](https://img.shields.io/badge/Geany-3A554A?style=for-the-badge&logo=geany&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-### **Normas e Metodologias**
-![WCAG](https://img.shields.io/badge/WCAG_2.1-AA-007ACC?style=for-the-badge)
-![ABNT Acessibilidade Digital](https://img.shields.io/badge/Normas_ABNT-Conhecimento-007ACC?style=for-the-badge&logo=book&logoColor=white)
+### **Conhecimentos Gerais**
+![POO](https://img.shields.io/badge/Programação%20Orientada%20a%20Objetos-100%25-blue?logo=object-group)
+![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-Relacional-9cf?logo=postgresql)
 ![Metodologias Ágeis](https://img.shields.io/badge/Metodologias_Ágeis-Scrum/Kanban-2CA5E0?style=for-the-badge&logo=agile&logoColor=white)
 ![SWEBOK](https://img.shields.io/badge/SWEBOK-Conhecimento-007ACC?style=for-the-badge&logo=book&logoColor=white)
 ![Testing](https://img.shields.io/badge/QA_Testing-%23E34F26.svg?style=for-the-badge&logo=testlio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### **Normas**
+![WCAG](https://img.shields.io/badge/WCAG_2.1-AA-007ACC?style=for-the-badge)
+![ABNT Acessibilidade Digital](https://img.shields.io/badge/Normas_ABNT-Conhecimento-007ACC?style=for-the-badge&logo=book&logoColor=white)
+
 
 ## **🔧 Experiências**
 | Projeto | Tecnologias | Foco |
