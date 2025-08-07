@@ -32,7 +32,7 @@ Olá! Meu nome é Júlia Ribeiro, atualmente sou estudante de graduação em Ci�
 ## **🔧 Experiências**
 | Projeto | Tecnologias | Foco |
 |---------|------------|------|
-| [Analista de Qualidade em Acessibilidade] | ABNT, WCAG 2.1 | QA Digital |
+| [Analista de Qualidade em Acessibilidade] | NVDA, Testes de Software, ABNT, WCAG 2.1 | QA Digital |
 
 ## **🚀 Em Busca de Novos Conhecimentos**
 ### **Certificações em Progresso**
