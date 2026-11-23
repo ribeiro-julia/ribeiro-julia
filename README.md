@@ -45,6 +45,7 @@ Olá! Meu nome é Júlia Ribeiro, estudante de graduação em Ciência da Comput
 - **Participatory Design for Visually Impaired People**
 - **Conducting User Studies with Older Adults Interacting with the Web**
 - **Acessibilidade nas Mídias Sociais para Pessoas com Deficiência Visual**
+- **EF Standard English Test - C1**
 
 Visite o [Google Drive](https://drive.google.com/drive/folders/1Zy79AZXPzAkWLctvVNxyLlk6U-8EUmMF?usp=drive_link) para ter acesso aos documentos oficiais de certificação
 ### **Em Progresso**
