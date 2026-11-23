@@ -38,6 +38,7 @@ Olá! Meu nome é Júlia Ribeiro, estudante de graduação em Ciência da Comput
 | Projeto | Função | Tecnologias | Foco |
 |---------|---------|------------|------|
 | Iniciação Científica | Analista de Qualidade em Acessibilidade | Testes de Software, ABNT NBR 17225, WCAG 2.1, NVDA | Quality Assurance, Acessibilidade Digital |
+| Estágio Philips Desenvolve | Gerente de Projetos | Smartsheet, Automação de Processos, Inteligência Artificial, Microsoft Office | Sustaining, Medical Devices, Gestão de Pessoas |
 
 ## **Certificações**
 ### **Concluídas**
